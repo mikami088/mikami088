@@ -1,12 +1,16 @@
-<h1 align="center"> Hi, my name is Nikolai </h1>
+<h1 align="center">Hi, my name is Nikolai! </h1>
 
 <h3 align="center">I am a full-stack developer. I work with Python, JavaScript, and C++. I also work with the Django framework.</h3>
 
-How to contact me: **nik.markevich08@gmail.com**
+-  **My Projects:**
+  - [ Python Notes App](https://github.com) — A desktop notes application built with Python.
+  - [ Allergy Food App](https://github.com) — A special Django web application that shows food preservative ingredients.
+- How to contact me: **nik.markevich08@gmail.com**
+- Fun fact: **I am confident and I consider myself funny**.
 
 ---
 
-### Languages ​​and tools:
+###  Languages and Tools:
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -28,7 +32,7 @@ How to contact me: **nik.markevich08@gmail.com**
 
 ---
 
-### 📊 My GitHub statistics:
+###  My GitHub Stats:
 
 <p align="center">
   <img src="https://vercel.app" alt="GitHub Stats" width="48%"/>
