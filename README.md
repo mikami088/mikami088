@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут Николай! 👋</h1>
+<h1 align="center">Привет, меня зовут Николай! </h1>
 
 <h3 align="center">Я full-stack разработчик. Я работаю с Python, JavaScript и C++. Также работаю с фреймворком Django.</h3>
 
