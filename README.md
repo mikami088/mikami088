@@ -6,7 +6,7 @@
   - [ Python Notes App](https://github.com) — A desktop notes application built with Python.
   - [ Allergy Food App](https://github.com) — A special Django web application that shows food preservative ingredients.
 - How to contact me: **nik.markevich08@gmail.com**
-- Fun fact: **I am confident and I consider myself funny**.
+
 
 ---
 
