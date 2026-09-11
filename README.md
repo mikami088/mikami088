@@ -1,12 +1,12 @@
-<h1 align="center">Привет, меня зовут Николай! </h1>
+<h1 align="center"> Hi, my name is Nikolai </h1>
 
-<h3 align="center">Я full-stack разработчик. Я работаю с Python, JavaScript и C++. Также работаю с фреймворком Django.</h3>
+<h3 align="center">I am a full-stack developer. I work with Python, JavaScript, and C++. I also work with the Django framework.</h3>
 
-Как со мной связаться: **nik.markevich08@gmail.com**
+How to contact me: **nik.markevich08@gmail.com**
 
 ---
 
-### 🛠️ Языки и инструменты:
+### Languages ​​and tools:
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -28,7 +28,7 @@
 
 ---
 
-### 📊 Моя статистика GitHub:
+### 📊 My GitHub statistics:
 
 <p align="center">
   <img src="https://vercel.app" alt="GitHub Stats" width="48%"/>
